@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "authvetch",
+        "uuid": 10693305,
+        "checksum": "owle46"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
